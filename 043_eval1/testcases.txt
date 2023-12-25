@@ -1,0 +1,32 @@
+#error
+printSsData invalid_wrong_float.csv
+printSsData invalid_illegal_character_month.csv
+printSsData invalid_wrong_year.csv
+printSsData invalid_wrong_float_with_space_back.csv
+printSsData invalid_wrong_float_with_space_front.csv
+printSsData invalid_zero_month.csv
+printSsData invalid_bigger_than_12_month.csv
+printSsData invalid_zero_month.csv
+printSsData invalid_double_dot_num.csv
+printSsData invalid_null_num.csv
+printSsData invalid_null_year.csv
+printSsData invalid_null_line.csv
+printSsData invalid_negative_num.csv
+printSsData invalid_sole_single_dot_num.csv
+printSsData invalid_sole_double_dot_num.csv
+printSsData invalid_illegal_character_num.csv
+printSsData invalid_no_comma.csv
+printSsData invalid_blank_num.csv
+printFilteredSsData sunspots_data.csv 10
+printSsPeriod sunspots_data.csv 6
+
+#success
+printSsData sunspots_data.csv
+printSsData sunspots_small.csv
+printSsData sunspots_int.csv
+printSsData sunspots_float_with_dot_front.csv
+printSsData sunspots_float_with_dot_behind.csv
+printFilteredSsData sunspots_data.csv 5
+printFilteredSsData sunspots_data.csv 71
+printSsPeriod sunspots_data.csv 5
+printSsPeriod sunspots_data.csv 71

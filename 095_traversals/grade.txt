@@ -1,0 +1,15 @@
+Grading at 11/26/2023:16:20:31.379134
+For commit ID 501de81577920ad5f0816c3e12dbd0c64424ff1e
+Grading at Sun Nov 26 11:20:31 AM EST 2023
+Comparing answer1.txt
+Your file matched the expected output
+ answer1.txt is correct
+Comparing answer2.txt
+Your file matched the expected output
+ answer2.txt is correct
+Comparing answer3.txt to one possible solution
+ (two child delete uses left, then all the way right)
+Your file matched the expected output
+ answer3.txt is correct
+
+Overall Grade: PASSED

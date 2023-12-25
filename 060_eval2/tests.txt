@@ -1,0 +1,40 @@
+story-step1 story.txt
+story-step1 story_no_content_between.txt
+story-step1 story_odd_underline.txt
+story-step1 story_ref_index_out_of_bound.txt
+story-step1 story_invalid_ref.txt
+story-step1 empty_file.txt
+story-step2 words.txt
+story-step2 words_single_colon.txt
+story-step2 words_double_colon.txt
+story-step2 words_empty.txt
+story-step2 words_empty_category.txt
+story-step2 words_empty_word.txt
+story-step2 words_multiple_words.txt
+story-step2 empty_file.txt
+story-step3 words.txt story2.txt
+story-step3 words.txt story_no_content_between.txt
+story-step3 words_double_colon.txt story2.txt
+story-step3 words.txt story_ref_index_out_of_bound.txt
+story-step3 words.txt story_more_than_word_can_provide.txt
+story-step3 -n words.txt story2.txt
+story-step4 words.txt story2.txt
+story-step4 -n words.txt story2.txt
+story-step4 -d words.txt story2.txt
+story-step4 words.txt story_no_content_between.txt
+story-step4 -n words.txt story_no_content_between.txt
+story-step4 -d words.txt story_no_content_between.txt
+story-step4 words_double_colon.txt story2.txt
+story-step4 -n words_double_colon.txt story2.txt
+story-step4 -d words_double_colon.txt story2.txt
+story-step4 words.txt story_ref_index_out_of_bound.txt
+story-step4 -n words.txt story_ref_index_out_of_bound.txt
+story-step4 -d words.txt story_ref_index_out_of_bound.txt
+story-step4 words.txt story_ref_index_out_of_bound.txt
+story-step4 -n words.txt story_ref_index_out_of_bound.txt
+story-step4 -v words.txt story_ref_index_out_of_bound.txt
+story-step4 words.txt story_more_than_word_can_provide.txt
+story-step4 -n words.txt story_more_than_word_can_provide.txt
+story-step4 -d words.txt story_more_than_word_can_provide.txt
+story-step4 -n -d words.txt story2.txt
+story-step4 -n words_multiple_words.txt story.txt

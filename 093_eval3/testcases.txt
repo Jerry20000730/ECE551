@@ -1,0 +1,91 @@
+cyoa-step1 testcases/provided_test/story1
+
+cyoa-step2 testcases/provided_test/story1 < testcases/provided_test/story1/inputs/input0.txt
+cyoa-step2 testcases/provided_test/story1 < testcases/provided_test/story1/inputs/input1.txt
+cyoa-step2 testcases/provided_test/story1 < testcases/provided_test/story1/inputs/input2.txt
+cyoa-step2 testcases/provided_test/story1 < testcases/provided_test/story1/inputs/input3.txt
+cyoa-step2 testcases/provided_test/story1 < testcases/provided_test/story1/inputs/input4.txt
+cyoa-step2 testcases/provided_test/story1 < testcases/provided_test/story1/inputs/input5.txt
+cyoa-step2 testcases/provided_test/story1 < testcases/provided_test/story1/inputs/input6.txt
+cyoa-step2 testcases/provided_test/story1 < testcases/provided_test/story1/inputs/input7.txt
+cyoa-step2 testcases/provided_test/story1 < testcases/provided_test/story1/inputs/input8.txt
+cyoa-step2 testcases/provided_test/story1 < testcases/provided_test/story1/inputs/input9.txt
+cyoa-step2 testcases/provided_test/story1 < testcases/provided_test/story1/inputs/input10.txt
+cyoa-step2 testcases/provided_test/story1 < testcases/provided_test/story1/inputs/input11.txt
+cyoa-step2 testcases/provided_test/story1 < testcases/provided_test/story1/inputs/input12.txt
+
+cyoa-step3 testcases/provided_test/story1
+
+cyoa-step1 testcases/provided_test/story2
+
+cyoa-step2 testcases/provided_test/story2 < testcases/provided_test/story2/inputs/input0.txt
+cyoa-step2 testcases/provided_test/story2 < testcases/provided_test/story2/inputs/input1.txt
+cyoa-step2 testcases/provided_test/story2 < testcases/provided_test/story2/inputs/input2.txt
+cyoa-step2 testcases/provided_test/story2 < testcases/provided_test/story2/inputs/input3.txt
+cyoa-step2 testcases/provided_test/story2 < testcases/provided_test/story2/inputs/input4.txt
+cyoa-step2 testcases/provided_test/story2 < testcases/provided_test/story2/inputs/input5.txt
+cyoa-step2 testcases/provided_test/story2 < testcases/provided_test/story2/inputs/input6.txt
+cyoa-step2 testcases/provided_test/story2 < testcases/provided_test/story2/inputs/input7.txt
+cyoa-step2 testcases/provided_test/story2 < testcases/provided_test/story2/inputs/input8.txt
+cyoa-step2 testcases/provided_test/story2 < testcases/provided_test/story2/inputs/input9.txt
+
+cyoa-step3 testcases/provided_test/story2
+
+cyoa-step4 testcases/provided_test/story3 < testcases/provided_test/story3/inputs/input0.txt
+cyoa-step4 testcases/provided_test/story3 < testcases/provided_test/story3/inputs/input1.txt
+cyoa-step4 testcases/provided_test/story3 < testcases/provided_test/story3/inputs/input2.txt
+cyoa-step4 testcases/provided_test/story3 < testcases/provided_test/story3/inputs/input3.txt
+cyoa-step4 testcases/provided_test/story3 < testcases/provided_test/story3/inputs/input4.txt
+cyoa-step4 testcases/provided_test/story3 < testcases/provided_test/story3/inputs/input5.txt
+cyoa-step4 testcases/provided_test/story3 < testcases/provided_test/story3/inputs/input6.txt
+cyoa-step4 testcases/provided_test/story3 < testcases/provided_test/story3/inputs/input7.txt
+cyoa-step4 testcases/provided_test/story3 < testcases/provided_test/story3/inputs/input8.txt
+cyoa-step4 testcases/provided_test/story3 < testcases/provided_test/story3/inputs/input9.txt
+cyoa-step4 testcases/provided_test/story3 < testcases/provided_test/story3/inputs/input10.txt
+cyoa-step4 testcases/provided_test/story3 < testcases/provided_test/story3/inputs/input11.txt
+cyoa-step4 testcases/provided_test/story3 < testcases/provided_test/story3/inputs/input12.txt
+cyoa-step4 testcases/provided_test/story3 < testcases/provided_test/story3/inputs/input13.txt
+cyoa-step4 testcases/provided_test/story3 < testcases/provided_test/story3/inputs/input14.txt
+cyoa-step4 testcases/provided_test/story3 < testcases/provided_test/story3/inputs/input15.txt
+cyoa-step4 testcases/provided_test/story3 < testcases/provided_test/story3/inputs/input16.txt
+cyoa-step4 testcases/provided_test/story3 < testcases/provided_test/story3/inputs/input17.txt
+cyoa-step4 testcases/provided_test/story3 < testcases/provided_test/story3/inputs/input18.txt
+cyoa-step4 testcases/provided_test/story3 < testcases/provided_test/story3/inputs/input19.txt
+cyoa-step4 testcases/provided_test/story3 < testcases/provided_test/story3/inputs/input20.txt
+cyoa-step4 testcases/provided_test/story3 < testcases/provided_test/story3/inputs/input21.txt
+cyoa-step4 testcases/provided_test/story3 < testcases/provided_test/story3/inputs/input22.txt
+cyoa-step4 testcases/provided_test/story3 < testcases/provided_test/story3/inputs/input23.txt
+cyoa-step4 testcases/provided_test/story3 < testcases/provided_test/story3/inputs/input24.txt
+cyoa-step4 testcases/provided_test/story3 < testcases/provided_test/story3/inputs/input25.txt
+
+cyoa-step1 testcases/test1_wrong_pagenum
+cyoa-step1 testcases/test1_wrong_pagenum_order
+cyoa-step1 testcases/test1_wrong_pagenum_format
+cyoa-step1 testcases/test1_wrong_pagenum_format_2
+cyoa-step1 testcases/test1_wrong_pagetype
+cyoa-step1 testcases/test1_page_started_not_zero
+cyoa-step1 testcases/test1_normal_pages_without_choices
+cyoa-step1 testcases/test1_empty_story_txt
+cyoa-step1 testcases/test1_win_lose_choice
+cyoa-step1 testcases/test1_declare_page_before
+cyoa-step1 testcases/test1_miss_page
+cyoa-step1 testcases/test1_same_file_diff_num
+
+cyoa-step2 testcases/test2_never_ends < testcases/test2_never_ends/inputs/input_loop.txt
+cyoa-step2 testcases/test2_win_lose_choice < testcases/test2_win_lose_choice/inputs/input0.txt
+cyoa-step2 testcases/test2_no_input_file
+cyoa-step2 testcases/test2_wrong_page_file_name < testcases/test2_wrong_page_file_name/inputs/input0.txt
+cyoa-step2 testcases/test2_miss_page < testcases/test2_miss_page/inputs/input0.txt
+
+cyoa-step3 testcases/test3_cycle
+
+cyoa-step4 testcases/test4_complex_variable < testcases/test4_complex_variable/inputs/input0.txt
+cyoa-step4 testcases/test4_complex_variable < testcases/test4_complex_variable/inputs/input1.txt
+cyoa-step4 testcases/test4_empty_variable < testcases/test4_empty_variable/inputs/input0.txt
+cyoa-step4 testcases/test4_empty_variable < testcases/test4_empty_variable/inputs/input1.txt
+cyoa-step4 testcases/test4_ambiguous_variable < testcases/test4_ambiguous_variable/inputs/input0.txt
+cyoa-step4 testcases/test4_ambiguous_variable < testcases/test4_ambiguous_variable/inputs/input1.txt
+cyoa-step4 testcases/test4_ambiguous_variable2 < testcases/test4_ambiguous_variable2/inputs/input0.txt
+cyoa-step4 testcases/test4_ambiguous_variable2 < testcases/test4_ambiguous_variable2/inputs/input1.txt
+cyoa-step4 testcases/test4_repeat_variable_same_page < testcases/test4_repeat_variable_same_page/inputs/input0.txt
+cyoa-step4 testcases/test4_repeat_variable_same_page < testcases/test4_repeat_variable_same_page/inputs/input1.txt

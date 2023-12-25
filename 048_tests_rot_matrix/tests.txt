@@ -1,0 +1,25 @@
+
+
+input_empty.txt
+input_more_column.txt
+input_less_column.txt
+input_more_line.txt
+input_less_line.txt
+input_characters.txt
+input_nonascii.txt
+input_more_line_with_characters.txt
+input_less_line_with_characters.txt
+input_more_column_with_characters.txt
+input_less_column_with_characters.txt
+input_unequal.txt
+input_unequal2.txt
+input_unequal3.txt
+input_normal.txt
+input_more_column.txt input_less_column.txt
+input_no_numbers.txt
+input_multiple_space.txt
+input_non_exists.txt
+input_no_line.txt
+input_special_characters.txt
+input_combined.txt
+input_no_encoding.txt

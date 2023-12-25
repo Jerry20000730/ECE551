@@ -1,0 +1,66 @@
+Grading at 09/12/2023:01:07:00.357488
+For commit ID c97d060cd68919d8ae8c0ba00dd4045f92994605
+Grading at Mon Sep 11 09:06:59 PM EDT 2023
+**Testing broken implementation 10 **
+-------------------------------------
+
+the output of power did not match the expected answer.
+
+**Testing broken implementation 11 **
+-------------------------------------
+
+the output of power did not match the expected answer.
+
+**Testing broken implementation 1 **
+-------------------------------------
+
+the output of power did not match the expected answer.
+
+**Testing broken implementation 2 **
+-------------------------------------
+
+the output of power did not match the expected answer.
+
+**Testing broken implementation 3 **
+-------------------------------------
+
+the output of power did not match the expected answer.
+
+**Testing broken implementation 4 **
+-------------------------------------
+
+the output of power did not match the expected answer.
+
+**Testing broken implementation 5 **
+-------------------------------------
+
+the output of power did not match the expected answer.
+
+**Testing broken implementation 6 **
+-------------------------------------
+
+the output of power did not match the expected answer.
+
+**Testing broken implementation 7 **
+-------------------------------------
+
+the output of power did not match the expected answer.
+
+**Testing broken implementation 8 **
+-------------------------------------
+
+the output of power did not match the expected answer.
+
+**Testing broken implementation 9 **
+-------------------------------------
+
+the output of power did not match the expected answer.
+
+**Testing correct implementation **
+-------------------------------------
+
+
+All tests were ok.
+
+
+Overall Grade: PASSED

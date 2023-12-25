@@ -1,0 +1,10 @@
+Grading at 10/25/2023:04:01:42.710817
+For commit ID cc02cfd0975b73d88f09cb1e410147380432a4b7
+Grading at Wed Oct 25 12:01:42 AM EDT 2023
+Attempting to compile:
+g++ -std=gnu++98 -pedantic -Wall -Werror -o code code.cpp
+Your Makefile produced a binary called 'code'
+Your file matched the expected output
+Your output matched what we expected
+
+Overall Grade: PASSED
